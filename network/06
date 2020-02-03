@@ -1,0 +1,6 @@
+# Воспользоваться командой
+
+cat /etc/resolv.conf
+
+# или командой grep "nameserver" /etc/resolv.conf
+# которая выведет на экран только ip-адрес

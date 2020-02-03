@@ -1,0 +1,3 @@
+servise ssh stop
+# или команда kill <PID>
+# PID можно узнать с помощью команды pstree -p

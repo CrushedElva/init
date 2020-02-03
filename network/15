@@ -1,0 +1,8 @@
+# в / etc / hosts измените адрес напротив intra.42.fr на 46.19.122.85
+# это должно выглядеть так
+# 46.19.122.85        intra.42.fr
+# 127.0.0.1       localhost
+# 255.255.255.255 broadcasthost
+# ::1             localhost
+# 127.0.0.1 clem.org
+# 127.0.0.1 ota.clem.org

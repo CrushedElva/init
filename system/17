@@ -1,0 +1,2 @@
+ssh username@ip_address
+# ssh -p 2522 <login>@127.0.0.1

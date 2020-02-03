@@ -1,0 +1,3 @@
+# В файле debian_version
+# Используя команду
+# cat /etc/debian_version

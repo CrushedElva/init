@@ -1,0 +1,3 @@
+sudo pkill $USER
+sudo userdel -f $USER
+sudo rm -rf /home/$USER
